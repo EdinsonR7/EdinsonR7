@@ -4,10 +4,10 @@ Task Manager es una aplicación de gestión de tareas que te ayuda a organizar y
 
 ## Demo
 
-Puedes ver una demostración en vivo de la aplicación [aquí](https://transporto-omega.vercel.app/).
+Puedes ver una demostración en vivo de la aplicación [aquí]().
 
 
-![image](https://github.com/maicolortz/transporto/assets/107804493/a5e8ccf9-83b6-4895-9949-0c2862a51d8f)
+![image]()
 
 ## Características
 
@@ -28,7 +28,7 @@ Puedes ver una demostración en vivo de la aplicación [aquí](https://transport
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/maicolortz/transporto`
+1. Clona este repositorio: ``
 2. Ve al directorio del proyecto: `cd transporto`
 3. Instala las dependencias: `npm install`
 
@@ -40,6 +40,6 @@ Puedes ver una demostración en vivo de la aplicación [aquí](https://transport
 
 
 ## Contribuidor
-Maicol Alexiz Ortiz Hernandez
+
 
 
