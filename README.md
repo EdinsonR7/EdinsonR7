@@ -1,3 +1,8 @@
+# Edinson Rivera
+
+![image](![practicas-desarollo-software](https://github.com/EdinsonR7/EdinsonR7/assets/99853318/d57b9844-d01c-4389-8ff6-39533856f3a5)
+)
+
 # Task Manager
 
 Task Manager es una aplicación de gestión de tareas que te ayuda a organizar y realizar un seguimiento de tus tareas diarias.
