@@ -1,7 +1,7 @@
 # Edinson Rivera
 
-![image](![practicas-desarollo-software](https://github.com/EdinsonR7/EdinsonR7/assets/99853318/d57b9844-d01c-4389-8ff6-39533856f3a5)
-)
+![image]![practicas-desarollo-software](https://github.com/EdinsonR7/EdinsonR7/assets/99853318/b5d1cc5c-fd4b-4206-b259-125ab5792ea5)
+
 
 # Task Manager
 
