@@ -3,7 +3,7 @@
 # Edinson Rivera
 # Desarrollador Web Full Stack
 
-Con conocimientos en HTML, CSS, Javascript, React, React-Native, Redux Nodejs, Express para el desarrollo de páginas web con Responsive.
+Con conocimientos en HTML, CSS, Javascript, React, Redux, Nodejs, postgresSQL, Express para el desarrollo de páginas web con Responsive.
 
 Mi experiencia desarrollando en React incluye a react router dom, react Hooks, estados de React y además brindarle una mejor legibilidad al código implementando las react props junto con la composición de componentes.
 
