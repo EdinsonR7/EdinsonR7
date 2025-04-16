@@ -1,8 +1,7 @@
 ![image](https://github.com/EdinsonR7/EdinsonR7/assets/99853318/f4299c7f-258d-4509-bed1-6f3a9b62c07a)
 
 # Edinson Rivera
-# Desarrollador Web Full Stack
-
+# Desarrollador Web Front-End
 Con conocimientos en HTML, CSS, Javascript, React, Redux, Nodejs, postgresSQL, Express para el desarrollo de páginas web con Responsive.
 
 Mi experiencia desarrollando en React incluye a react router dom, react Hooks, estados de React y además brindarle una mejor legibilidad al código implementando las react props junto con la composición de componentes.
