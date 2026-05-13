@@ -1,157 +1,132 @@
-![image](https://github.com/EdinsonR7/EdinsonR7/assets/99853318/f4299c7f-258d-4509-bed1-6f3a9b62c07a)
+<h1 align="center">¡Hola! 👋 Soy Edinson Rivera</h1>
 
-# Edinson Rivera
-# Desarrollador Web Front-End
-Con conocimientos en HTML5, CSS3, Bootstrap, Javascript, React, Nodejs, postgresSQL y Express para el desarrollo de páginas web con Responsive.
+<h3 align="center">Frontend Developer · Full-Stack en formación · Analista y Desarrollador de Software</h3>
 
-Mi experiencia desarrollando en React incluye a react router dom, react Hooks, estados de React y además brindarle una mejor legibilidad al código implementando las react props junto con la composición de componentes.
+<p align="center">
+  <a href="www.linkedin.com/in/edinson-rivera-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:riveraedinson043@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Ubicación-Córdoba,_Colombia-7C3AED?style=for-the-badge" alt="Ubicación"/>
+</p>
 
-Me apasiona el aprendizaje continuo en tecnologías y habilidades que me permitan mejorar la productividad.
+---
 
-# App Dogs
+### 👨‍💻 Sobre mí
 
-App Dogs es una aplicación que esta desarrollada para hacer peticiones a una api, para traer los resultados de razas de perros y filtrarlos por temperamento, raza, peso, altura, anchura; además de te permite crear nuevas razas.
+Desarrollador Full-Stack con foco en **React, TypeScript y Node.js**. Actualmente cursando mi práctica profesional como **Practicante de Ciberseguridad en Accenture**, donde aprendí a pensar el software desde la perspectiva del atacante.
 
-## Demo
+Construyo soluciones reales para pequeños negocios y comercios locales: desde sistemas de reservas médicas con autenticación robusta, hasta plataformas de gestión para PYMES preparadas para escalar a mobile. Manejo el ciclo completo de desarrollo: análisis de requerimientos, modelado de base de datos, frontend, backend y despliegue.
 
-Puedes ver una demostración de la aplicación [aquí](https://deploy-pi-dogs-eta.vercel.app/).
+- 🔭 Actualmente trabajando en **SebMay** (plataforma de gestión para PYMES) y **MediBook** (sistema de reservas médicas).
+- 🌱 Aprendiendo sobre **arquitecturas escalables**, **testing** y **buenas prácticas de seguridad aplicadas al desarrollo**.
+- 💡 Me interesa **UX/UI**, **automatización** y soluciones tecnológicas para usuarios con poco conocimiento técnico.
+- 📫 Contáctame: **riveraedinson043@gmail.com**
 
+---
 
-![image](https://github.com/EdinsonR7/EdinsonR7/assets/99853318/4cf3b6a4-8e0f-4141-9dd8-4d6aa567c71e)
+### 🛠️ Stack Técnico
 
-## Características
+**Frontend**
 
-- Publicar un perro
-- ordenar perros por tamaño, 
-- ordenar por alfabeto
-- filtrar por temperamento
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## Tecnologías utilizadas
+**Backend**
 
-- React.js
-- React Router
-- JavaScript
-- HTML
-- CSS
-- Redux
-- postgresSQL
-- Express
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-## Instalación
+**Bases de Datos**
 
-1. Clona este repositorio: `https://github.com/EdinsonR7/Deploy-PI-DOGS.git`
-2. Ve al directorio del proyecto: `cd api backend, cd client frontend`
-3. Instala las dependencias: `npm install`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Uso
+**DevOps & Herramientas**
 
-1. Inicia la aplicación: `npm run dev`
-2. Abre tu navegador web y visita: `http://127.0.0.1:5173/`
-3. Crea nuevas tareas, marca tareas como completadas y sigue el flujo de trabajo.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
 
-## Contribuidor
-### Edinson Rivera 
+### 🚀 Proyectos Destacados
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### 💼 SebMay — Plataforma de Gestión de Ventas para PYMES
+> Plataforma full-stack con arquitectura híbrida: API REST operativa y frontend en desarrollo activo, preparada para escalar a aplicación móvil.
 
-# App Marvel
+**Stack:** React 18 · JavaScript · Vite · Tailwind · Node.js · Express · Prisma · PostgreSQL
 
-Desarrollé una página de detalle de personajes, donde se puede ver información detallada de cada personaje de Marvel, incluyendo su biografía, habilidades, relaciones con otros personajes, entre otros detalles. Esta app contiene búsqueda de personajes, eventos, series y cómics.
+---
 
-## Demo
+#### 🏥 MediBook — Sistema de Reservas Médicas Multi-Sede
+> Sistema de reservas para consultorios médicos con esquema relacional de 9 tablas, autenticación JWT con access/refresh tokens, y control de acceso basado en roles. Cumplimiento de normativa colombiana (CIE-10 y Ley de Habeas Data).
 
-Puedes ver una demostración de la aplicación [aquí](https://marvel-g6bg3bmad-edinsonr7.vercel.app/).
+**Stack:** PostgreSQL · Node.js · Express · JWT · React · JavaScript · RBAC
 
+**🔗 En producción:** [api.medibook.com](https://gestion-citas-medicas-hazel.vercel.app/)
 
-![image](https://github.com/EdinsonR7/EdinsonR7/assets/99853318/d6a21d87-4e95-4f6a-bf11-e6d7faa2e6f0)
+---
 
+#### 💇 Hair Day — Sistema de Reservas para Salón de Belleza
+> Aplicación de reservas en producción con dominio propio. Configuración de connection pooling y registros CNAME para garantizar estabilidad en producción.
 
-## Características
+**Stack:** React · Node.js · PostgreSQL · Vercel · Railway
 
-- Detalles de personajes
-- Detalle de biografia, 
-- Relacionarlos con otros personajes
-- Busqueda por eventos series comics
+**🔗 En producción:** [api.reservapelu.com](https://api.reservapelu.com)
 
-## Tecnologías utilizadas
+---
 
-- React.js
-- React Router
-- JavaScript
-- HTML
-- CSS
-- Tailwind
+#### 📦 Inventario-App — Gestión de Inventario para Comercio Local
+> Software de inventario con funcionalidades de carga de productos, búsqueda avanzada, generación de reportes y gestión de proveedores.
 
+**Stack:** React · Node.js · Express · PostgreSQL
 
+---
 
-## Instalación
+### 📊 Estadísticas de GitHub
 
-1. Clona este repositorio: `https://github.com/EdinsonR7/Marvel-App.git`
-2. Ve al directorio del proyecto: `cd Marvel-App2`
-3. Instala las dependencias: `npm install`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EdinsonR7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-## Uso
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdinsonR7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-1. Inicia la aplicación: `npm run dev`
-2. Abre tu navegador web y visita: `http://localhost:5173/`
-3. Crea nuevas tareas, marca tareas como completadas y sigue el flujo de trabajo.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdinsonR7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+---
 
-## Contribuidor
+### 🎓 Formación
 
-### Edinson Rivera 
+- **Tecnólogo en Análisis y Desarrollo de Software** — SENA (Nov 2023 — Feb 2026)
+- **Developing Interpersonal Skills** — IBM en Coursera
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-# App Ecomerce
+### 💬 ¿Hablamos?
 
-Este ecommerce contien búsqueda por categorias, ademas de la compra de accesorios de forma personalizada.
-Desarrollé un ecomerse que contiene su flujo de compra, donde se puede encontrar información detallada de cada producto, incluyendo su descripción, precios y busquedas por id y nombre, entre otros detalles.
+Estoy abierto a oportunidades como **Frontend Developer**, **Full-Stack Junior** o **Analista de Software**. Si tienes un proyecto interesante o quieres conectar, escríbeme:
 
-## Demo
+📧 **riveraedinson043@gmail.com**  
+💼 **[LinkedIn](www.linkedin.com/in/edinson-rivera-dev)**
 
-Puedes ver una demostración de la aplicación [aquí](https://tienda-catalogo.vercel.app/).
+---
 
-
-![image](https://github.com/EdinsonR7/EdinsonR7/assets/99853318/9b057194-6a29-403d-b472-df51305a0c92)
-
-
-
-## Características
-
-- Detalles de productos
-- Busqueda por id
-- Busqueda por categorias
-- Busqueda por descripción
-- ruta de productos
-- flujo de compras
-
-## Tecnologías utilizadas
-
-- React.js
-- React Router
-- JavaScript
-- HTML
-- CSS
-
-
-## Instalación
-
-1. Clona este repositorio: `https://github.com/EdinsonR7/Tienda-Catalogo.git`
-2. Ve al directorio del proyecto: `cd client`
-3. Instala las dependencias: `npm install`
-
-## Uso
-
-1. Inicia la aplicación: `npm run dev`
-2. Abre tu navegador web y visita: `http://localhost:5173/`
-3. Crea nuevas tareas, marca tareas como completadas y sigue el flujo de trabajo.
-
-
-## Contribuidor
-
-### Edinson Rivera 
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EdinsonR7&label=Visitas%20al%20perfil&color=7C3AED&style=for-the-badge" alt="Visitas al perfil" />
+</p>
