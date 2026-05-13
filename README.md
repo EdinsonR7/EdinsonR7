@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer · Full-Stack en formación · Analista y Desarrollador de Software</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/edinson-rivera-dev">
+  <a href="www.linkedin.com/in/edinson-rivera-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:riveraedinson043@gmail.com">
@@ -123,7 +123,7 @@ Construyo soluciones reales para pequeños negocios y comercios locales: desde s
 Estoy abierto a oportunidades como **Frontend Developer**, **Full-Stack Junior** o **Analista de Software**. Si tienes un proyecto interesante o quieres conectar, escríbeme:
 
 📧 **riveraedinson043@gmail.com**  
-💼 **[LinkedIn](www.linkedin.com/in/edinson-rivera-dev)**
+💼 **[LinkedIn](www.linkedin.com/in/edinson-rivera-dev/)**
 
 ---
 
