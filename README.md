@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Desarrollador Full-Stack con foco en **React, TypeScript y Node.js**. Actualmente cursando mi práctica profesional como **Practicante de Ciberseguridad en Accenture**, donde aprendí a pensar el software desde la perspectiva del atacante.
+Desarrollador Full-Stack con foco en **React, JavaScript y Node.js**. Actualmente cursando mi práctica profesional como **Practicante de Ciberseguridad en Accenture**, donde aprendí a pensar el software desde la perspectiva del atacante.
 
 Construyo soluciones reales para pequeños negocios y comercios locales: desde sistemas de reservas médicas con autenticación robusta, hasta plataformas de gestión para PYMES preparadas para escalar a mobile. Manejo el ciclo completo de desarrollo: análisis de requerimientos, modelado de base de datos, frontend, backend y despliegue.
 
