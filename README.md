@@ -3,7 +3,7 @@
 <h3 align="center">Desarrollador Full Stack · React · Node.js · PostgreSQL</h3>
 
 <p align="center">
-  <a href="https://[tu-portafolio]">
+  <a href="https://portafolio-desarrollo2026.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-C2562B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
   </a>
   <a href="https://www.linkedin.com/in/edinson-rivera-dev/">
